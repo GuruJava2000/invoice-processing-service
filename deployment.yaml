@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: invoice-app
-          image: invoice-processing-service:1.0
-          imagePullPolicy: IfNotPresent
+          image: gurureddy097/invoice-processing-service:1.0
+          imagePullPolicy: Always
           ports:
             - containerPort: 8080
