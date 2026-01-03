@@ -1,0 +1,7 @@
+com\example\invoice\service\S3Service.class
+com\example\invoice\entity\Invoice.class
+com\example\invoice\repository\InvoiceRepository.class
+com\example\invoice\util\XmlParser.class
+com\example\invoice\controller\InvoiceController.class
+com\example\invoice\InvoiceProcessingApplication.class
+com\example\invoice\service\InvoiceService.class
